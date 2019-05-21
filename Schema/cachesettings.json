@@ -1,0 +1,27 @@
+[
+  {
+    "Field": "LabelBrand",
+    "Key": "Enum.LabelBrand",
+    "Type": "Enum"
+  },
+  {
+    "Field": "CountryOfOrigin",
+    "Key": "Enum.CountryOfOrigin",
+    "Type": "Enum"
+  },
+  {
+    "Field": "Producer",
+    "Key": "Enum.ProducerEnum",
+    "Type": "Enum"
+  },
+  {
+    "Field": "Taxonomy",
+    "Key": "10000",
+    "Type": "Structure"
+  },
+  {
+    "Field": "Geography",
+    "Key": "10001",
+    "Type": "Structure"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "FeldName": "ItemNumber",
+    "FieldType": "string",
+    "HeaderText": "Item No.",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 100,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FeldName": "FrontFullBottle",
+    "FieldType": "string",
+    "HeaderText": "Front Full Bottle",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 100,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FeldName": "BackFullBottle",
+    "FieldType": "string",
+    "HeaderText": "Back Full Bottle",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 50,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FeldName": "FrontLabel",
+    "FieldType": "string",
+    "HeaderText": "Front Label",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 100,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FeldName": "BackLabel",
+    "FieldType": "string",
+    "HeaderText": "Back Label",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 100,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  }
+]

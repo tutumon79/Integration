@@ -1,0 +1,59 @@
+﻿[
+  {
+    "FieldName": "ItemNumber",
+    "FieldType": "string",
+    "HeaderText": "Item No *",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 50,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FieldName": "ComponentItemNumber",
+    "FieldType": "string",
+    "HeaderText": "Component Item No *",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 50,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FieldName": "Sequence",
+    "FieldType": "int",
+    "HeaderText": "Sequence",
+    "IsExtendedProperty": false,
+    "IsRequired": false,
+    "IsValid": false,
+    "Length": 4,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  },
+  {
+    "FieldName": "ComponentQuantity",
+    "FieldType": "int",
+    "HeaderText": "Component Quantity *",
+    "IsExtendedProperty": false,
+    "IsRequired": true,
+    "IsValid": false,
+    "Length": 4,
+    "DecimalLength": null,
+    "NonDecimalLength": null,
+    "RegularExpression": "^[a-zA-Z]([\\w_]*[a-zA-Z])?$",
+    "IsLOV": false,
+    "LOVCacheKey": ""
+  }
+]
+

@@ -1,0 +1,14 @@
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\bin\Release\netcoreapp2.2\SouthernApi.deps.json
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\bin\Release\netcoreapp2.2\SouthernApi.runtimeconfig.json
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\bin\Release\netcoreapp2.2\SouthernApi.runtimeconfig.dev.json
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\bin\Release\netcoreapp2.2\SouthernApi.dll
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\bin\Release\netcoreapp2.2\SouthernApi.pdb
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.csproj.CoreCompileInputs.cache
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.RazorAssemblyInfo.cache
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.RazorAssemblyInfo.cs
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.AssemblyInfoInputs.cache
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.AssemblyInfo.cs
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.RazorTargetAssemblyInfo.cache
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.dll
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.pdb
+C:\Users\Dipu.Divakaran\source\repos\SouthernApi\obj\Release\netcoreapp2.2\SouthernApi.csprojAssemblyReference.cache
